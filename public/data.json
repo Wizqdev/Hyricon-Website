@@ -1,0 +1,153 @@
+{
+  "profile": {
+    "fullname": "Hyricon Development",
+    "about": "We are a group of people who make free open source projects!!",
+    "email": "contact@hyricon.dev",
+    "resume": "",
+    "theme": "dark"
+  },
+  "social": [
+    {
+      "name": "Github",
+      "icon": "fab fa-github-alt",
+      "url": "https://github.com/Hyricon-Development/"
+    },
+    {
+      "name": "Discord",
+      "icon": "fab fa-discord",
+      "url": "https://hyricon.dev/discord"
+    }
+  ],
+  "tools": {
+    "frontend": [
+      {
+        "tool": "react",
+        "icon": "devicon-react-original colored"
+      },
+      {
+        "tool": "html5",
+        "icon": "devicon-html5-plain colored"
+      },
+      {
+        "tool": "css3",
+        "icon": "devicon-css3-plain colored"
+      },
+      {
+        "tool": "bootstrap",
+        "icon": "devicon-bootstrap-plain colored"
+      }
+    ],
+    "backend": [
+      {
+        "tool": "nodejs",
+        "icon": "devicon-nodejs-plain colored"
+      },
+      {
+        "tool": "javascript",
+        "icon": "devicon-javascript-plain colored"
+      },
+      {
+        "tool": "yarn",
+        "icon": "devicon-yarn-plain colored"
+      },
+      {
+        "tool": "nextjs",
+        "icon": "devicon-nextjs-original colored"
+      },
+      {
+        "tool": "express",
+        "icon": "devicon-express-original colored"
+      },
+      {
+        "tool": "bash",
+        "icon": "devicon-bash-plain colored"
+      },
+      {
+        "tool": "typescript",
+        "icon": "devicon-typescript-plain colored"
+      },
+      {
+        "tool": "python",
+        "icon": "devicon-python-plain colored"
+      },
+      {
+        "tool": "php",
+        "icon": "devicon-php-plain colored"
+      },
+      {
+        "tool": "java",
+        "icon": "devicon-java-plain colored"
+      },
+      {
+        "tool": "C",
+        "icon": "devicon-c-plain colored"
+      },      {
+        "tool": "C#",
+        "icon": "devicon-csharp-plain colored"
+      },
+      {
+        "tool": "C++",
+        "icon": "devicon-cplusplus-plain colored"
+      },
+      {
+        "tool": "mysql",
+        "icon": "devicon-mysql-plain colored"
+      },
+      {
+        "tool": "mongodb",
+        "icon": "devicon-mongodb-plain colored"
+      },
+      {
+        "tool": "postgresql",
+        "icon": "devicon-postgresql-plain colored"
+      }
+    ],
+    "devtools": [
+      {
+        "tool": "linux",
+        "icon": "devicon-linux-plain colored"
+      },
+      {
+        "tool": "ubuntu",
+        "icon": "devicon-ubuntu-plain colored"
+      },
+      {
+        "tool": "debian",
+        "icon": "devicon-debian-plain colored"
+      },
+      {
+        "tool": "git",
+        "icon": "devicon-git-plain colored"
+      },
+      {
+        "tool": "github",
+        "icon": "devicon-github-plain"
+      },
+      {
+        "tool": "vscode",
+        "icon": "devicon-visualstudio-plain colored"
+      },
+      {
+        "tool": "docker",
+        "icon": "devicon-docker-plain colored"
+      },
+      {
+        "tool": "nginx",
+        "icon": "devicon-nginx-original colored"
+      },
+      {
+        "tool": "putty",
+        "icon": "devicon-putty-plain colored"
+      }
+    ]
+  },
+  "projects": [
+    {
+      "name": "Hosting Website",
+      "image": "hosting-website.png",
+      "live": "https://demo-1.hyricon.dev",
+      "source": "https://github.com/Hyricon-Development/Hosting-Website",
+      "tech": ["EJS", "JS", "CSS"]
+    }
+  ]
+}
